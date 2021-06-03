@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A hue and cry after Edward Kerby, a stone-cutter, and his wife Margaret with their two sons Joseph and Benjamine Kerby. Being a full and true account of the wicked robbery committed near St. Giles's Church, on Saturday last, at a joyners house in Plumb-tree-street, having first robbed the house of all movable goods, set if afterwards on fire.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24421</idno><idno type="EEBO-CITATION">99886926</idno>
+  <idno type="VID">189674</idno>
+  <idno type="EEBO-PROQUEST">2248537582</idno>
+  
+            <idno type="STC">Wing H3275</idno>
+            <idno type="STC">Interim Tract Supplement Guide 515.l.2[178*]</idno>
+            <idno type="STC">ESTC R226783</idno>
+            <idno type="PROQUEST">ocm99886926</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886926e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24421)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189674)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C17:1[179b])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A hue and cry after Edward Kerby, a stone-cutter, and his wife Margaret with their two sons Joseph and Benjamine Kerby. Being a full and true account of the wicked robbery committed near St. Giles's Church, on Saturday last, at a joyners house in Plumb-tree-street, having first robbed the house of all movable goods, set if afterwards on fire.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Thompson in Holborn,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing E376 printed on back.</note>
+                  <note>Left edge damaged, with loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Arson --  England --  Early works to 1800.</term>
+               <term type="topical_term">Crimes and criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:189674:1"/>
+            <head>A Hue and Cry After <hi>Edward Kerby,</hi> a Stone-Cutter, and his Wife <hi>Margaret</hi> with their two Sons <hi>Joseph</hi> and <hi>Benjamine Kerby.</hi>
+            </head>
+            <head type="sub">Being a Fall and True Account of the wicked Robbery committed near St, <hi>Giles</hi>'s Church, on <hi>Saturday</hi> last, at a Joyners House in <hi>Plumb-tree-street,</hi> having first Robbed the House of all the Movable Goods, set it afterwards on Fire.</head>
+            <p>AT a Joyners House in <hi>Plum-Tree street,</hi> in St. <hi>Giles</hi>'s in the <hi>Fields,</hi> Lodged one Mr. <hi>Kerby</hi> a Stone-Cutter and his Wife, with their Two Sons; He being a Man of good Business, was wont often to have Work in the Country, where he would stay commonly all the Week, and come home again only on <hi>Satur<g ref="char:EOLhyphen"/>day</hi> Nights, and so begon again on <hi>Monday</hi> Morning following; but his Wife <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing an Extravagant Woman, would spend all that she could get; insomuch that in her <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>usband's absence at any time, she would Pawn all her Cloaths, and run him to needless <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>arges, which the poor Man seeing that if she did not speedily take up from her Wicked <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Extravagant Course of Life, she would soon cause his Ruin; which made him often <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arn her, but he finding it to no purpose and all in vain, which obstinency in her, was <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e cause that he could not bear that Affection towards her as he was wont to; which her <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>andlady perceiving, yet knowing the ca<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se, she could not greatly affect her Wicked Deeds, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd so took little or no notice to him of it, any further than that she would have him <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear a little longer with her, to see whether she would amend or no, which he promised <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> would.</p>
+            <p>But on <hi>Saturday</hi> Night last, being the 13th of this Instant <hi>April,</hi> 1700. her Husband as <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pretended to, having an occasion to go to <hi>B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rnet,</hi> as she told her Landlady, who did <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the least mistrust either him or her, but that he was gone to Work as he used to <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, but whether it was so or no we cannot tell for certainty: but his wicked Wife Mrs. <hi>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rby</hi> not forgetting her wicked Practices, took the opportunity when her Landlord and <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s Wife was gon to Bed on <hi>Saturday</hi> Night last, which was between Twelve and One of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Clock, as having occasion to sit up later that Night than they were wont to do; and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efore they were got to Sleep, they heard a great rumbling sort of noise in Mrs. <hi>Kirby</hi>'s Room, but thinking that she was a cleaning it, they went both to Sleep, in which time she had conveyed away all the moveable and Houshould Goods that she could come at in the Room where she lay, leaving nothing but the Rug and Bed; then she came down <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tairs with a lighted Candle in her Hand, which she set against the Wainscoat going down <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Sellar-stairs, on purpose to Fire the House, that she might the better come off with <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e things she had conveyed away. But before they had sl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pt an Hour, they <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e awa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ed out of their Sleeps, by the scorching Heat and fierce Flames of the Fire, which had <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>compassed them in, and broken into the Chamber where they lay, which so Astonished <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Affrighted them that they knew not which way to go, by reason that he did see Fire both <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bove and below too; which he seeing, was resolved to go down Stairs, at that h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> snatch<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d up his Britches, having within Two Guineas and the rest in Silver, to the value of 3 Pounds, which he threw out of the Window, and afterwards run down Stairs through the Fire, which was so fierce that it burned the Hair of his Head. And opening the Street-door to cry out for help, found his Britches with the Money taken out and laid down again: but before he could get any considerable help, he met on the Stairs his Lodger Mrs <hi>Kirby,</hi> who told him, that she had throw'd the Bolster of the Bed out of the Window: Then he told her that he believed she had done this Wicked fact; and saying, that he would make her find out the other Bolster which they missed before then, with many o<g ref="char:EOLhyphen"/>ther things.</p>
+            <p>By this time their Neighbours came to his help and assistance to quence the Fire, which if it had gone on but a little longer, it had for certain been a dreadful one indeed; but the Fire being carefully put out, and all the bussel over, Mrs. <hi>Kirby</hi> with her two Twin Sons about 10 Years of Age, went to lie down on the Bed in their Chamber till about ten of the Clock on <hi>Sunday</hi> Morning, she came down and went away, leaving her two Sons behind, who followed after, and has not been seen since. Therefore who can bring them to Judgment, they shall be well required.</p>
+            <p>Disciription of <hi>Edward Kirby,</hi> a Lusty short Man, with a fresh coloured Face, thick Lip, wearing sad coloured Cloaths, and his own Hair. Margaret <hi>Kerby</hi> his Wife, having a thin Face with a long Nose, middle si<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, wearing a Redding coloured Gown, being <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ccompanied with <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er two T<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Sons <hi>Joseph</hi> and <hi>Benjamin</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Lic<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nsed according is Order.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Robert Thompson</hi> in <hi>Holborn,</hi> 1700.</p>
+            <pb facs="tcp:189674:1"/>
+         </div>
+      </back>
+   </text>
+</TEI>
